@@ -1,0 +1,52 @@
+  .body {
+    background-color: pink;
+  }
+    hr {
+    border-color: brown;
+    border-width: 20%;
+    border-spacing: 10px;
+    border-style: dotted;
+    width: 5%;
+  }
+  .fake {
+    background-color: blue;
+    position: relative;
+    left: 50px;
+  }
+  .ballo {
+    background-color: yellow;
+    width: 10%;
+    position: relative;
+    left: 100px;
+  }
+  #sole {
+    background-color: brown;
+  }
+  #check {
+    font-family: 'fantasy',serif;
+  }
+  #greeting {
+    font-size: 14;
+    font-family: fantasy;
+    font-style: italic;
+  }
+  .statement {
+    font-size: 8;
+    font-family: fantasy;
+  }
+
+.skills           {
+  background-color: green;
+  }
+.skill-row        {
+  background-color: inherit;
+  }
+.contact-me       {
+  background-color: yellow;
+  }
+.bottom-container {
+  background-color: grey;
+  }
+.btn              {
+  background-color: brown;
+  }
